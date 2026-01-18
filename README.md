@@ -1,4 +1,4 @@
-#⚖️ Diagnostic Égalité F/H KNIME
+# Diagnostic Égalité F/H KNIME
 
 ## Résumé du projet :
 Automatisation du diagnostic égalité femmes-hommes via workflow KNIME pour un cabinet de conseil (150+ salariés). L'objectif était de créer un processus reproductible calculant l'index légal égalité F/H et 5 indicateurs clés (écarts salariaux ETP par CSP, taux promotions, répartition F/H, ancienneté), avec anonymisation RGPD et génération automatique de graphiques pour présentation en plénière.
